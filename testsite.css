@@ -22,18 +22,27 @@ body {
   text-align: center;
   padding: 0px;
   margin: 0px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: -20px;
+  margin-bottom: -40px;
   text-align: center;
+  letter-spacing: 3px;
   color: #001F3F;
-  font-size: 39px;
+  font-size: 49px;
 }
 
 .subheader {
   text-align: center;
   padding: 0px;
   margin: 0px;
-  font-size: 67px;
+  font-size: 39px;
+}
+
+.menubar {
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 31px;
+  text-shadow: 1px 1px 1px #FFF
+  margin-bottom: 1em;
 }
 
 h3 {
@@ -41,7 +50,7 @@ h3 {
   margin-bottom: 0px;
   margin-left: 15px;
   text-align: center;
-  font-size: 41px;
+  font-size: 31px;
 }
 
 h4 {
